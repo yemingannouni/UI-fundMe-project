@@ -1,0 +1,42 @@
+#container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+button {
+  cursor: pointer;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  width: 20%;
+  height: 40%;
+  font-size: large;
+  margin-right: 10px;
+}
+
+button:hover {
+  opacity: 30;
+}
+input {
+  width: 20%;
+  height: 30%;
+  font-size: large;
+}
+
+div {
+  height: 100px;
+}
+
+html,
+body {
+  height: 100%;
+
+  margin: 0;
+  padding: 0;
+}
+@media screen and (max-width: 768px) {
+  button {
+    font-size: 16px;
+    width: 40%;
+    height: 40%;
+  }
+}
