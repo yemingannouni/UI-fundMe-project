@@ -31,5 +31,5 @@ This is an abstract user interface project used to interact with the fundMe smar
    yarn hardhat node
 ```
 
-- run the live server and use your browser to connect to http://127.0.0.1:5500/
+- run live server and use your browser to connect to http://127.0.0.1:5500/
 - click the connect button to connect your website to metamask and start interacting with the fundMe smart contract.
